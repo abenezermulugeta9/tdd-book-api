@@ -1,5 +1,7 @@
-package com.abenezer.demobookapp;
+package com.abenezer.demobookapp.config;
 
+import com.abenezer.demobookapp.model.Book;
+import com.abenezer.demobookapp.repository.BookRepository;
 import com.github.javafaker.Faker;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

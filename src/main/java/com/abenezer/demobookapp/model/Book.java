@@ -1,4 +1,4 @@
-package com.abenezer.demobookapp;
+package com.abenezer.demobookapp.model;
 
 import lombok.Data;
 
